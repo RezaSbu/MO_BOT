@@ -1,0 +1,7 @@
+{
+  "name": "Mo_Bot",
+  "description": "An AI-powered chatbot using the Gemini API to answer questions, analyze images, and perform web searches for up-to-date information.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
