@@ -2,10 +2,6 @@
 ````markdown
 # 🤖 MO_BOT AI Chatbot
 
-![React](https://img.shields.io/badge/React-18-blue)
-![TypeScript](https://img.shields.io/badge/TypeScript-5.0-3178C6)
-![Vite](https://img.shields.io/badge/Vite-Fast-646CFF)
-![Gemini](https://img.shields.io/badge/AI-Google%20Gemini-orange)
 
 **MO_BOT** is a modern, intelligent chatbot application built with **React**, **TypeScript**, and powered by **Google Gemini AI Studio**. Designed for speed, responsiveness, and a seamless conversational experience.
 
