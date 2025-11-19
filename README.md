@@ -158,5 +158,4 @@ Distributed under the MIT License.
 *Built with ❤️ by [RezaSbu](https://www.google.com/search?q=https://github.com/RezaSbu)*
 
 ```
-.
-```
+
